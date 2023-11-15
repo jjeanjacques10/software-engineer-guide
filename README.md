@@ -1,18 +1,22 @@
 ## Software Engineer Guide
 
-Guia para auxíliar desenvolvedores Júniors na jornada de desenvolvimento com foco em Java e Microsserviços. Este guia oferece uma visão geral de conceitos fundamentais, práticas recomendadas e recursos adicionais para impulsionar o aprendizado contínuo.
+Guia para auxiliar desenvolvedores Juniores na jornada de desenvolvimento com foco em Java e Microsserviços. Este guia oferece uma visão geral de conceitos fundamentais, práticas recomendadas e recursos adicionais para impulsionar o aprendizado contínuo.
 
 ## Como utilizar
 
 1. Faça o clone deste repositório:
 
-```
+``` shell
 git clone https://github.com/jjeanjacques10/software-engineer-guide.git
 ```
 
 2. Acesse o tópico que deseja estudar e comece a fazer os exercícios dentro das pastas especificadas em cada README.
 
 3. Caso tenha algum desenvolvedor com mais sênioridade para lhe guiar abra um novo PR e peça para ele revisar adionando comentários!
+
+``` shell
+git checkout -b feature/<exercicio-que-estiver-executando>
+```
 
 ## Java POO Fundamentos
 
@@ -54,7 +58,11 @@ Docker é uma das ferramentas mais úteis para o desenvolvimento de microsservi�
 
 ### Código Limpo
 
-Após escrever bastante código algumas dores vão acabar surgindo, seguem alguns materiais que podem lhe ajudar a melho
+Após escrever bastante código algumas dores vão acabar surgindo, seguem alguns materiais que podem lhe ajudar a melhorar o seu código:
+
+| Title | Autor | Link  |
+| ----- | ----- | ----- |
+| Código limpo: habilidades práticas do Agile software | Robert C. Martion | <https://www.amazon.com.br/C%C3%B3digo-limpo-Robert-C-Martin/dp/8576082675/ref=asc_df_8576082675/?tag=googleshopp00-20&linkCode=df0&hvadid=379792215563&hvpos=&hvnetw=g&hvrand=673144445532925245&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=1001736&hvtargid=pla-398225630878&psc=1&mcid=2b0fb83a4146383497d27512de9c9086> |
 
 ### Algoritmos
 
