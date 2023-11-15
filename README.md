@@ -20,6 +20,8 @@ git clone https://github.com/jjeanjacques10/software-engineer-guide.git
 
 ``` shell
 git checkout -b feature/<exercicio-que-estiver-executando>
+git add .
+git commit -m "resolucao do exercicio XYZ"
 ```
 
 ## Java POO Fundamentos
