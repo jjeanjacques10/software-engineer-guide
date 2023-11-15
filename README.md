@@ -34,7 +34,7 @@ Link para exercícios: [Conceitos Básicos](java-poo/CONCEITOS_BASICOS.md)
 
 Objetivo neste módulo é criar uma aplicação do zero utilizando [Spring Boot](https://spring.io/projects/spring-boot). Seguem as introções:
 
-- [API de pessoas](spring-boot/PROJETO_PESSOAS.mdø): Para aplicar conceitos como RESTful APIs, JPA, e tratamento de exceções.
+- [API de pessoas](spring-boot/PROJETO_PESSOAS.md): Para aplicar conceitos como RESTful APIs, JPA, e tratamento de exceções.
 
 ## Microsserviços
 
