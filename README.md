@@ -7,7 +7,7 @@ Guia para auxíliar desenvolvedores Júniors na jornada de desenvolvimento com f
 1. Faça o clone deste repositório:
 
 ```
-git clone 
+git clone https://github.com/jjeanjacques10/software-engineer-guide.git
 ```
 
 2. Acesse o tópico que deseja estudar e comece a fazer os exercícios dentro das pastas especificadas em cada README.
