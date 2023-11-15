@@ -1,4 +1,4 @@
-## Software Engineer Guide
+# Software Engineer Guide
 
 Guia para auxiliar desenvolvedores Juniores na jornada de desenvolvimento com foco em Java e Microsserviços. Este guia oferece uma visão geral de conceitos fundamentais, práticas recomendadas e recursos adicionais para impulsionar o aprendizado contínuo.
 
@@ -36,13 +36,18 @@ Objetivo neste módulo é criar uma aplicação do zero utilizando [Spring Boot]
 
 - [API de pessoas](spring-boot/PROJETO_PESSOAS.md): Para aplicar conceitos como RESTful APIs, JPA, e tratamento de exceções.
 
+### Referências
+
+- [Curso Spring Boot - Spring Boot 2 Essentials](https://www.youtube.com/playlist?list=PL62G310vn6nFBIxp6ZwGnm8xMcGE3VA5H)
+- [Projeto de referência](https://github.com/jjeanjacques10/springboot-essentials)
+
 ## Microsserviços
 
 - Entendimento dos princípios
 - Comunicação entre microsserviços
 - Escalabilidade e resiliência
 
-#### Recomendação de livros
+### Recomendação de livros
 
 | Title | Autor | Link  |
 | ----- | ----- | ----- |
