@@ -2,6 +2,10 @@
 
 Guia para auxiliar desenvolvedores Juniores na jornada de desenvolvimento com foco em Java e Microsserviços. Este guia oferece uma visão geral de conceitos fundamentais, práticas recomendadas e recursos adicionais para impulsionar o aprendizado contínuo.
 
+[![GitHub license](https://img.shields.io/github/license/jjeanjacques10/software-engineer-guide.svg)](https://github.com/jjeanjacques10/software-engineer-guide/blob/master/LICENSE)
+[![GitHub contributors](https://img.shields.io/github/contributors/jjeanjacques10/software-engineer-guide.svg)](https://GitHub.com/jjeanjacques10/software-engineer-guide/graphs/contributors/)
+[![GitHub issues](https://img.shields.io/github/issues/jjeanjacques10/software-engineer-guide.svg)](https://GitHub.com/jjeanjacques10/software-engineer-guide/issues/)
+
 ## Como utilizar
 
 1. Faça o clone deste repositório:
