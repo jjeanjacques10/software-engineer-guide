@@ -1,6 +1,7 @@
-## API de Pessoas
+# API de Pessoas
 
 - A API precisa ser criada utilizando Spring Boot com o banco de dados MySQL.
+- Utilize o site [Spring Initializr](https://start.spring.io/) para criar a base do projeto
 
 Obs: Projeto com base na [rinha de backend](https://github.com/zanfranceschi/rinha-de-backend-2023-q3/blob/main/INSTRUCOES.md), mas com um escopo simplificado.
 
