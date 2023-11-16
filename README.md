@@ -8,21 +8,43 @@ Guia para auxiliar desenvolvedores Juniores na jornada de desenvolvimento com fo
 
 ## Como utilizar
 
-1. Faça o clone deste repositório:
+1. Faça um fork do projeto
+
+Clique no botão "Fork" no canto superior direito da página do repositório no GitHub. Isso criará uma cópia do repositório em sua conta.
+
+2. Clone o repositório para o seu ambiente local
 
 ``` shell
-git clone https://github.com/jjeanjacques10/software-engineer-guide.git
+git clone https://github.com/seu-usuario/software-engineer-guide.git
 ```
 
-2. Acesse o tópico que deseja estudar e comece a fazer os exercícios dentro das pastas especificadas em cada README.
-
-3. Caso tenha algum desenvolvedor com mais sênioridade para lhe guiar abra um novo PR e peça para ele revisar adionando comentários!
+3. Acesse o tópico que deseja estudar e comece a fazer os exercícios dentro das pastas especificadas em cada README. Crie uma nova branch para suas modificações
 
 ``` shell
-git checkout -b feature/<exercicio-que-estiver-executando>
+git checkout -b feature/nome-da-sua-feature
+```
+
+Substitua **nome-da-sua-feature** por um nome descritivo para a funcionalidade que você está trabalhando.
+
+4. Realize suas modificações e faça commits
+
+``` shell
 git add .
-git commit -m "resolucao do exercicio XYZ"
+git commit -m "Descrição clara das suas alterações"
 ```
+
+5. Caso tenha algum desenvolvedor com mais sênioridade para lhe guiar abra um novo PR e peça para ele revisar adionando comentários!
+
+    5.1 Abrindo um Pull Request (PR)
+    Envie suas modificações para o seu repositório no GitHub
+
+    ``` shell
+    git push origin feature/nome-da-sua-feature
+    ```
+
+    5.2 Abra um novo Pull Request
+
+    Vá até a página do seu repositório no GitHub e clique no botão "New Pull Request". Descreva suas modificações de forma clara e solicite a revisão de outros desenvolvedores.
 
 ## Java POO Fundamentos
 
