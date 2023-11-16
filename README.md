@@ -87,6 +87,8 @@ Docker é uma das ferramentas mais úteis para o desenvolvimento de microsservi�
 
 - [docker-handbook](https://github.com/jjeanjacques10/docker-handbook)
 
+Link para exercícios: [Conceitos Básicos](docker/CONCEITOS_BASICOS.md)
+
 ## Extras
 
 ### Código Limpo
